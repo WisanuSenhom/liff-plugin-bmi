@@ -67,7 +67,7 @@ btnElement.onclick = () => {
 }
 
 const main = async() => {
-  await liff.init({liffId: "YOUR-LIFF-ID"});
+  await liff.init({liffId: "2000472605-W2VAmAP5"});
     // Check login status
     if (liff.isLoggedIn()) {
       // Get user profile
